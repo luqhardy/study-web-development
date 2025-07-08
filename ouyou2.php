@@ -23,7 +23,7 @@
 
                 echo "<p>あなたの情報</p>";
                 echo "<table class='result-table'>";
-                echo "<tr><th>身長</th><td>" . $htmlspecialcharHeightt . " m</td></tr>";
+                echo "<tr><th>身長</th><td>" . $htmlspecialcharHeight . " m</td></tr>";
                 echo "<tr><th>現在の体重</th><td>" . $htmlspecialcharWeight . " kg</td></tr>";
                 echo "</table>";
 
